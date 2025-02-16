@@ -2,7 +2,7 @@ from random import *
 
 seed("ADIAHUDJKFAI")
 
-# print(randint(1,20)) ### 5 ### 5 ### 5 ### 5 ### 5 ### 5 ###
+# print(randint(1,20)) ### 12 ### 12 ### 12 ### 12 ### 12 ###
 
 contents = ''
 
